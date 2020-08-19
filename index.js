@@ -4,6 +4,6 @@ class Tree {
   }
   
   static definition() {
-    return `A pet is an animal kept primarily for a person's company.`;
+    return `A tree is a perennial plant with an elongated stem, or trunk, supporting`;
   }
 }
