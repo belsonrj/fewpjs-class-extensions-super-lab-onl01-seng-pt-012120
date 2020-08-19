@@ -4,6 +4,6 @@ class Tree {
   }
   
   static definition() {
-    
+    return `A pet is an animal kept primarily for a person's company.`;
   }
 }
